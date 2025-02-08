@@ -1,0 +1,9 @@
+{
+	"name": "SangDemoDataFactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6ee58406-8189-4bc1-90f6-54458fe6b680",
+		"tenantId": "9bb41072-c375-4d21-8d3e-6c7735524402"
+	}
+}
